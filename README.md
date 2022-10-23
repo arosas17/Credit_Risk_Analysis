@@ -2,6 +2,6 @@
 
 ## Overview 
 
-## Results:
+## Results
 
 ## Summary
