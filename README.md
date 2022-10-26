@@ -14,6 +14,7 @@ The RandomOverSampler resulted in:
 * a balanced accuracy score of 65.7%
 * a high-risk precision of 1%
 * a high-risk recall of 71%
+<br>
 
 ### SMOTE Scores
 ![smote_bas.png](/Images/smote_bas.png)<br><br>
@@ -22,6 +23,7 @@ The SMOTE resulted in:
 * a balanced accuracy score of 66.2%
 * a high-risk precision of 1%
 * a high-risk recall of 63%
+<br>
 
 ### ClusterCentroids Scores
 ![cc_bas.png](/Images/cc_bas.png)<br><br>
@@ -30,7 +32,7 @@ The ClusterCentroids resulted in:
 * a balanced accuracy score of 54.4%
 * a high-risk precision of 1%
 * a high-risk recall of 69%
-
+<br>
 
 ### SMOTEENN Scores
 ![smoteenn_bas.png](/Images/smoteenn_bas.png)<br><br>
@@ -39,7 +41,7 @@ The SMOTEENN resulted in:
 * a balanced accuracy score of 64.5%
 * a high-risk precision of 1%
 * a high-risk recall of 72%
-
+<br>
 
 ### BalancedRandomForestClassifier Scores
 ![brf_bas.png](/Images/brf_bas.png)<br><br>
@@ -48,7 +50,7 @@ The BalancedRandomForestClassifier resulted in:
 * a balanced accuracy score of 78.9%
 * a high-risk precision of 3%
 * a high-risk recall of 70%
-
+<br>
 
 ### EasyEnsembleClassifier Scores
 ![ee_bas.png](/Images/ee_bas.png)<br><br>
